@@ -1,0 +1,11 @@
+.DS_Store
+.remote-sync.json
+
+*.pyc
+*.jpg
+*.png
+*.seq
+*.vbb
+
+data
+plots
